@@ -28,6 +28,7 @@ logic
 exception
 pry
 interpolation
+bundler
 TEXT
   },
   { name:        "Rails kata",
